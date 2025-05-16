@@ -1,6 +1,6 @@
  bin/
 obj/
-appsettings.json
+
 *.user
 .vs/
 .DS_Store
