@@ -1,0 +1,7 @@
+ bin/
+obj/
+appsettings.json
+*.user
+.vs/
+.DS_Store
+bin/Debug/net8.0/appsettings.json
